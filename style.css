@@ -7,7 +7,7 @@
     /* background-color: #24252A; */
 }
 
-body {
+.home {
     background-image: url('./img/banner2.jpg');
     background-size: cover;
 }
